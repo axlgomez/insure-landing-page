@@ -1,0 +1,35 @@
+
+
+//## Colors
+
+//### Primary
+
+$dark-violet: hsl(256, 26%, 20%);
+$grayish-blue: hsl(216, 30%, 68%);
+
+//### Neutral
+
+$very-dark-violet: hsl(270, 9%, 17%);
+$dark-grayish-violet: hsl(273, 4%, 51%);
+$very-light-gray: hsl(0, 0%, 98%);
+
+//## Typography
+
+//### Body Copy
+
+$size: 16px;
+
+//### Headings
+
+// - Family: [DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display)
+$font-headings: 'DM Serif Display', serif;
+$weight-regular: 400;
+
+//### Body
+
+// - Family: [Karla](https://fonts.google.com/specimen/Karla)
+$font-body: 'Karla', sans-serif;
+$weights: (
+    "regular": 400,
+    "bold": 700
+);
